@@ -1,0 +1,9 @@
+com\matera\blog\repository\ProdutoRepository.class
+com\matera\blog\BlogApplication.class
+com\matera\blog\repository\PostRepository.class
+com\matera\blog\service\ProdutoService.class
+com\matera\blog\model\Post.class
+com\matera\blog\model\Produto.class
+com\matera\blog\service\PostService.class
+com\matera\blog\controller\PostController.class
+com\matera\blog\controller\ProdutoController.class
